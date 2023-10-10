@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Uploading Screenshot 2023-10-10 at 10-45-25 GPT-3.png…]()
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
