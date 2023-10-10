@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-![Uploading Screenshot 2023-10-10 at 10-45-25 GPT-3.png…]()
+![Screenshot 2023-10-10 at 10-50-50 GPT-3](https://github.com/Ali-munir/jsm/assets/88024005/71af4a04-1fa8-4b0f-9820-69228501568a)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
